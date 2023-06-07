@@ -36,4 +36,8 @@ Ao enviar a requisição pela API, é necessário passar alguns parâmetros junt
 
 Feito, já é possível utilizar o código disponibilizado acima para realizar solicitações diretamente ao ChatGPT.
 
+https://github.com/czkni/chatgpt-python/assets/127226763/682f17ff-fd6a-4ba2-9260-9f35c7e569eb
+
+
 Espero que este código te ajude de alguma forma!
+
