@@ -27,3 +27,13 @@ imagem abaixo).
 3) Após gerar a chave, substituir no seguinte trecho do código:
 ![2](https://github.com/czkni/chatgpt-python/assets/127226763/ab18670a-66d7-4546-b8d4-5d6cd4d7b335)
 
+Parâmetros:
+Ao enviar a requisição pela API, é necessário passar alguns parâmetros juntamente:
+- Engine: Modelo de geração de texto.
+- Prompt: Solicitação de texto do usuário.
+
+![parametros](https://github.com/czkni/chatgpt-python/assets/127226763/c9ff8f5d-6389-4040-b9c0-5d1846fe2e13)
+
+Feito, já é possível utilizar o código disponibilizado acima para realizar solicitações diretamente ao ChatGPT.
+
+Espero que este código te ajude de alguma forma!
